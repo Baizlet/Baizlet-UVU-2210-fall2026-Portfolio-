@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 *.png filter=lfs diff=lfs merge=lfs -text
 *.sps filter=lfs diff=lfs merge=lfs -text
+=======
+shutterstock_1512536354.jpg filter=lfs diff=lfs merge=lfs -text
+>>>>>>> Stashed changes
